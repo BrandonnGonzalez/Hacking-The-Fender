@@ -1,5 +1,5 @@
 # Hacking-The-Fender
-# This is a Codecademy side project I am working on where I am brushing up on my Python Files skills such as working with files to retrieve, manipulate, obscure, and create data in csv files and other text files.
+# This is a Codecademy side project I am working on where I am brushing up on my Python Files skills such as working with files to retrieve, manipulate, obscure, and create data in csv files and other text files
 
 
 
